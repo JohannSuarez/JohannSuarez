@@ -17,7 +17,7 @@ and Data Visualization.
 * 📫 How to reach me: Contact information below.
 * ⚡ Fun fact: I have a huge interest on computer graphics, mostly the area of photogrammetry.
 
-### My Statistics
+### My Statistics:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannSuarez&show_icons=true&theme=dark)
 </br>
