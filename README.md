@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Greetings, I'm Johann!</h1>
-  <img alt="Aurora" src="1544031910_yNs.gif" width="500" height="200">
+  <img alt="Aurora" src="https://raw.githubusercontent.com/JohannSuarez/JohannSuarez/main/out.webp" width="500" height="280">
 </div>
 
 </br>
