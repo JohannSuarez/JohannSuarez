@@ -12,8 +12,8 @@ and Data Visualization.
 </br>
 
 
-* 🔭 I’m currently working on my Discord bot scripts, and cleaning up my old repositories
-* 🌱 I’m currently learning Django, Github Actions, and Holoviews
+* 🔭 I’m currently working on a REST API for my Discord bot, and cleaning up my old repositories
+* 🌱 I’m currently learning C++, Web Scraping, and Full Stack Web Development
 * 📫 How to reach me: Contact information below.
 * ⚡ Fun fact: I have a huge interest on computer graphics, mostly the area of photogrammetry.
 
