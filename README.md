@@ -4,8 +4,7 @@
 </div>
 
 </br>
-A developer for Longtail Financial.
-Mainly focused on Software Engineering, DevOps,
+A developer focused on Software Engineering, DevOps,
 and Data Visualization.
 
 </br>
