@@ -4,15 +4,14 @@
 </div>
 
 </br>
-A developer focused on Software Engineering, DevOps,
-and Data Visualization.
+A developer focused on Backend Engineering, and DevOps
 
 </br>
 </br>
 
 
 * 🔭 I’m currently working on a REST API for my Discord bot, and cleaning up my old repositories
-* 🌱 I’m currently learning C++, Web Scraping, and Full Stack Web Development
+* 🌱 I’m currently learning Golang and Backend Web Development
 * 📫 How to reach me: Contact information below.
 * ⚡ Fun fact: I have a huge interest on computer graphics, mostly the area of photogrammetry.
 
