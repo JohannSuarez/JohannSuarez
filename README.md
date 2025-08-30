@@ -17,7 +17,6 @@ A developer focused on Backend Engineering, and DevOps
 
 ### My Statistics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannSuarez&show_icons=true&theme=dark)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannSuarez&hide=jupyter%20notebook,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
